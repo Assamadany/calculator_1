@@ -8,6 +8,7 @@ body {
 .calculator {
   background: #101010;
   width: 25em;
+   margin: 50px auto;
 }
 
 .display {
